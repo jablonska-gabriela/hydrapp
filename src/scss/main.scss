@@ -12,7 +12,7 @@ body {
   align-content: center;
   flex-direction: column;
 }
-.button{
+.button {
   align-self: center;
   &__add {
     font-size: 18px;
@@ -29,12 +29,18 @@ body {
     min-height: 23px;
   }
 }
+.counter {
+  position: absolute;
+  padding: 96px;
+  font-size: 112px;
+  align-self: center;
+}
 .heading {
   align-self: center;
   font-size: 55px;
 }
 
-
 .image {
   margin-bottom: 48px;
+  position: relative;
 }
