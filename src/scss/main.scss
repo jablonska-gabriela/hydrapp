@@ -4,10 +4,37 @@
 @import "modules/hello.scss";
 
 body {
-  background: $wtf;
+  background: #3767ad;
   color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+.button{
+  align-self: center;
+  &__add {
+    font-size: 18px;
+    border-radius: 4px;
+    margin-bottom: 37px;
+    width: 218px;
+    min-height: 47px;
+  }
+  &__delete {
+    font-size: 14px;
+    background: none;
+    border: none;
+    width: 184px;
+    min-height: 23px;
+  }
+}
+.heading {
+  align-self: center;
+  font-size: 55px;
+}
+
+
+.image {
+  margin-bottom: 48px;
 }

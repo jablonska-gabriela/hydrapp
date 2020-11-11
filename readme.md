@@ -1,18 +1,11 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![logo](hydrapp.png)
 
-# WTF Webpack Starter Kit 
+# Hydrapp
 
-Simple toolkit for your static websites development.
+Simple app that helps you with taking care of keeping your daily water intake on a correct level. What is important part of a healthy lifestyle!
 
 ## How to use it?
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+Just simply click on a button 'add a glass' after drinking a glass of water. You can also click on a button 'delete a glass' if you make mistake.
 
-## Available scripts
-
-`npm run start` - runs development mode
-
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
-
+**Go ahead and try it yourself! 🧐**
