@@ -1,4 +1,4 @@
-![logo](hydrapp.png)
+![logo](../assets/img/hydrapp.png)
 
 # Hydrapp
 
